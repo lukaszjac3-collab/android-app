@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.2",
-  "kod": 2,
-  "plik": "agromanager-1.2.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.2.apk",
-  "rozmiar": 3431478,
-  "sha256": "1cca9c9c2b52c4f502ad017033363e4356e0580d57c306592fd4a62750940202",
+  "wersja": "1.3",
+  "kod": 3,
+  "plik": "agromanager-1.3.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.3.apk",
+  "rozmiar": 3466446,
+  "sha256": "098a098af8a819c0489d9399cc61cc0d465dfe94c70c8344df68c4c514d7c2d5",
   "data": "2026-10-18",
-  "opis": "Etap 2: edycja danych, nowy Start, ustawienia w podekranach, aktualizacje z publicznego repo\n\n- Aktualizacje z latest.json w lukaszjac3-collab/android-app (bez tokenu): ścisła kontrola adresu, bez przekierowań,\n  sprawdzenie rozmiaru i SHA-256 przed instalacją\n- Start: „AgroManager”, bieżący rok gospodarczy z serwera, karty „Sprzedaż plonów” (top 4) i „Analiza zużycia oleju napędowego”\n- Listy: dotknięcie → szczegóły, przytrzymanie → Edytuj/Usuń (poczekalnia: Przenieś do sprzedaży, duplikat, 404)\n- Formularze sprzedaży, poczekalni, faktury ON (plik z aparatu/galerii/PDF do 10 MB, zdjęcia 2000 px JPEG bez EXIF)\n  i uprawy; nieaktywne pozycje słowników zachowane przy edycji, błędy 422 przy polach, klucz idempotencji\n- Uprawy: tryb uproszczony/rozszerzony; Paliwo: suma litrów i wartości faktur, „brak pliku” wg ma_plik\n- Ustawienia: menu i osobne podekrany (Połączenie, Wygląd, Konto i gospodarstwo, Aktualizacje, O aplikacji)\n- Build: publikacja APK i latest.json w publicznym repo android-app"
+  "opis": "Etap 3: arkusz szczegółów, działki z własnością i historią, raporty, rok gospodarczy, powiadomienia\n\n- Nowe okno szczegółów: arkusz od dołu (nagłówek z ikoną, wartość główna, chipy, kafelki pól, Edytuj/Zamknij,\n  animacja wjazdu i zjazdu, przyciski zawsze widoczne) we wszystkich listach\n- Działki: pasek i legenda własności, kolejność własne → dzierżawione, zapamiętany filtr, historia upraw działki\n  (poprzednie lata); naprawione znikanie powierzchni przy długim numerze działki\n- Start: sprzedaż plonów wszystkich roślin, ostatnie zdarzenia z 30 dni\n- Więcej → Raporty, raport upraw (domyślnie najnowszy rok z danymi)\n- Ustawienia → Rok gospodarczy (jak na stronie, odświeżenie roku i danych po zmianie)\n- Dzwonek powiadomień z licznikiem i ekran Nieprzeczytane/Przeczytane"
 }
