@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.3",
-  "kod": 3,
-  "plik": "agromanager-1.3.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.3.apk",
-  "rozmiar": 3466446,
-  "sha256": "098a098af8a819c0489d9399cc61cc0d465dfe94c70c8344df68c4c514d7c2d5",
-  "data": "2026-10-18",
-  "opis": "Etap 3: arkusz szczegółów, działki z własnością i historią, raporty, rok gospodarczy, powiadomienia\n\n- Nowe okno szczegółów: arkusz od dołu (nagłówek z ikoną, wartość główna, chipy, kafelki pól, Edytuj/Zamknij,\n  animacja wjazdu i zjazdu, przyciski zawsze widoczne) we wszystkich listach\n- Działki: pasek i legenda własności, kolejność własne → dzierżawione, zapamiętany filtr, historia upraw działki\n  (poprzednie lata); naprawione znikanie powierzchni przy długim numerze działki\n- Start: sprzedaż plonów wszystkich roślin, ostatnie zdarzenia z 30 dni\n- Więcej → Raporty, raport upraw (domyślnie najnowszy rok z danymi)\n- Ustawienia → Rok gospodarczy (jak na stronie, odświeżenie roku i danych po zmianie)\n- Dzwonek powiadomień z licznikiem i ekran Nieprzeczytane/Przeczytane"
+  "wersja": "1.4",
+  "kod": 4,
+  "plik": "agromanager-1.4.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.4.apk",
+  "rozmiar": 3774672,
+  "sha256": "acbe9d655657564732b4c833530d13204cb513c95ad6dc15fdaabfdd3b23ef71",
+  "data": "2026-10-20",
+  "opis": "Powiadomienia systemowe o terminach (WorkManager, Ustawienia → Powiadomienia)\n\nSprawdzanie powiadomienia.php w tle co 1/3/6/12 h, powiadomienie na pasku\ndla każdego nowego nieprzeczytanego terminu, usuwanie po przeczytaniu,\nzgoda POST_NOTIFICATIONS na Androidzie 13+."
 }
