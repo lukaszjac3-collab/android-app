@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.4",
-  "kod": 4,
-  "plik": "agromanager-1.4.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.4.apk",
-  "rozmiar": 3774672,
-  "sha256": "acbe9d655657564732b4c833530d13204cb513c95ad6dc15fdaabfdd3b23ef71",
+  "wersja": "1.5",
+  "kod": 5,
+  "plik": "agromanager-1.5.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.5.apk",
+  "rozmiar": 3789372,
+  "sha256": "ba419aa9a3d508b79f57c323214c64c1fd53e495275cddac1249c824216e39eb",
   "data": "2026-10-20",
-  "opis": "Powiadomienia systemowe o terminach (WorkManager, Ustawienia → Powiadomienia)\n\nSprawdzanie powiadomienia.php w tle co 1/3/6/12 h, powiadomienie na pasku\ndla każdego nowego nieprzeczytanego terminu, usuwanie po przeczytaniu,\nzgoda POST_NOTIFICATIONS na Androidzie 13+."
+  "opis": "Raport oleju napędowego w Więcej → Raporty\n\nKafle okresów akcyzowych, typy raportu (zestawienie do wniosku, faktury,\nmiesięczny, roczny, poza wnioskiem), wybór okresu i filtra wniosku, KPI,\nszczegóły faktury, wydruk strony w przeglądarce."
 }
