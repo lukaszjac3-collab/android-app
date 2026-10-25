@@ -1,11 +1,11 @@
 {
   "aplikacja": "wylaczenia",
-  "wersja": "1.1",
-  "kod": 1,
-  "plik": "wylaczenia-1.1.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/wylaczenia/wylaczenia-1.1.apk",
-  "rozmiar": 3237179,
-  "sha256": "79882ee3cbc2f8162b3efb9539981417f4eece3a890174065ff895e06283beec",
+  "wersja": "1.2",
+  "kod": 2,
+  "plik": "wylaczenia-1.2.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/wylaczenia/wylaczenia-1.2.apk",
+  "rozmiar": 3237447,
+  "sha256": "aa1698bfb28dd4b8daabcd0cae1127c9ce4f52d0754b701def0a87ecbdbbeffb",
   "data": "2026-10-25",
-  "opis": "Wyłączenia prądu — wersja 1: lista, mapa, powiadomienia\n\n- Wybór operatora (PGE, Tauron, Energa, Enea, Stoen) i miejscowości\n- Lista planowanych wyłączeń i awarii z filtrem\n- Zapisane miejscowości z podsumowaniem na ekranie startowym\n- Mapa obszarów (OpenStreetMap)\n- Powiadomienia w tle o nowych wyłączeniach"
+  "opis": "Czytelny komunikat, gdy serwis operatora odrzuca zapytanie (HTTP 403/451)\n\nTauron zaczął blokować zapytania do /waapi spoza przeglądarki. Zamiast „HTTP 451”\naplikacja wyjaśnia, że serwis odrzucił zapytanie, i odsyła do strony operatora."
 }
