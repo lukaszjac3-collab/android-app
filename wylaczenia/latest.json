@@ -1,0 +1,11 @@
+{
+  "aplikacja": "wylaczenia",
+  "wersja": "1.1",
+  "kod": 1,
+  "plik": "wylaczenia-1.1.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/wylaczenia/wylaczenia-1.1.apk",
+  "rozmiar": 3237179,
+  "sha256": "79882ee3cbc2f8162b3efb9539981417f4eece3a890174065ff895e06283beec",
+  "data": "2026-10-25",
+  "opis": "Wyłączenia prądu — wersja 1: lista, mapa, powiadomienia\n\n- Wybór operatora (PGE, Tauron, Energa, Enea, Stoen) i miejscowości\n- Lista planowanych wyłączeń i awarii z filtrem\n- Zapisane miejscowości z podsumowaniem na ekranie startowym\n- Mapa obszarów (OpenStreetMap)\n- Powiadomienia w tle o nowych wyłączeniach"
+}
