@@ -1,11 +1,11 @@
 {
   "aplikacja": "ha-widzety",
-  "wersja": "1.2",
-  "kod": 2,
-  "plik": "ha-widzety-1.2.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/ha-widzety/ha-widzety-1.2.apk",
-  "rozmiar": 4331388,
-  "sha256": "dac16a6c835d117d94befefe879fa6c3ee0ce4b15ac0e5c05c9139c854873c50",
+  "wersja": "1.3",
+  "kod": 3,
+  "plik": "ha-widzety-1.3.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/ha-widzety/ha-widzety-1.3.apk",
+  "rozmiar": 4332992,
+  "sha256": "85b4ca43b2f5ec793d97ee5bf0898aa2d57f1f172b58fc9e089d6db643fe27c6",
   "data": "2026-10-26",
-  "opis": "Poprawki wyglądu: polskie znaki w nagłówkach i dolne menu\n\n- Kropki i kreski nad wielkimi literami (Ż, Ó, Ś, Ć) nie są już ucinane\n- Napisy w dolnym menu wyśrodkowane pod ikonami, odstęp od krawędzi ekranu"
+  "opis": "Grupa: własne etykiety i kolejność encji\n\n- Każda encja w grupie może mieć własną etykietę przycisku (puste = nazwa z HA)\n- Strzałki ▲▼ zmieniają kolejność przycisków w grupie\n- Etykiety trafiają do kopii konfiguracji"
 }
