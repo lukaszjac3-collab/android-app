@@ -1,0 +1,11 @@
+{
+  "aplikacja": "ha-widzety",
+  "wersja": "1.1",
+  "kod": 1,
+  "plik": "ha-widzety-1.1.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/ha-widzety/ha-widzety-1.1.apk",
+  "rozmiar": 4331676,
+  "sha256": "da62c92912b0f60a149a1d644e06e3c0ac7b3054defd031496751630b3e840ef",
+  "data": "2026-10-26",
+  "opis": "HA Widżety — wersja 1: widżety encji, grup i szablonów, stan na żywo\n\n- Połączenie z HA długotrwałym tokenem (adres lokalny i zdalny, QR, ostrzeżenie o koncie administratora)\n- Widżety Encja / Grupa / Szablon, układ dopasowany do siatki 3/4/5 kolumn i rozmiaru tekstu\n- Wyszukiwarka encji po nazwie, obszarze i entity_id\n- Stan na żywo przy włączonym ekranie (WebSocket), w tle odświeżanie co 15 min\n- Wysoki kontrast, stan także tekstem, potwierdzenie drugim dotknięciem\n- Kopia konfiguracji (plik .json, kod QR), zakładka Aktualizacje z powiadomieniem o nowej wersji"
+}
