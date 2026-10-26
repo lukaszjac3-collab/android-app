@@ -1,11 +1,11 @@
 {
   "aplikacja": "ha-widzety",
-  "wersja": "1.3",
-  "kod": 3,
-  "plik": "ha-widzety-1.3.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/ha-widzety/ha-widzety-1.3.apk",
-  "rozmiar": 4332992,
-  "sha256": "85b4ca43b2f5ec793d97ee5bf0898aa2d57f1f172b58fc9e089d6db643fe27c6",
+  "wersja": "1.4",
+  "kod": 4,
+  "plik": "ha-widzety-1.4.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/ha-widzety/ha-widzety-1.4.apk",
+  "rozmiar": 4333556,
+  "sha256": "7eda397a72ec9aed1dacce5f33b5453ff8ba5c5c8b01b500f0c1add1f74c89f4",
   "data": "2026-10-26",
-  "opis": "Grupa: własne etykiety i kolejność encji\n\n- Każda encja w grupie może mieć własną etykietę przycisku (puste = nazwa z HA)\n- Strzałki ▲▼ zmieniają kolejność przycisków w grupie\n- Etykiety trafiają do kopii konfiguracji"
+  "opis": "Szablon: wynik wieloliniowy\n\n- Wynik szablonu z wieloma liniami (np. zestawienie temperatur) wyświetlany jako tekst od góry kafelka,\n  bez wcięć z YAML, do 3000 znaków\n- Bez etykiety przy wyniku wieloliniowym (pierwsza linia szablonu jest nagłówkiem)\n- Nowy widżet szablonu ma domyślnie 2 wiersze wysokości, większe pole edycji szablonu"
 }
