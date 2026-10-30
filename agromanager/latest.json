@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.6",
-  "kod": 6,
-  "plik": "agromanager-1.6.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.6.apk",
-  "rozmiar": 3798012,
-  "sha256": "68bc23bcdb59d2b1bc494867124375043f38aae51c0b82fcf8b2496284699c93",
+  "wersja": "1.7",
+  "kod": 7,
+  "plik": "agromanager-1.7.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.7.apk",
+  "rozmiar": 3818753,
+  "sha256": "eac53145b420f7f0c45d8829f73e49c26755d1f25bf6f8d9e1d6126caf0c99e0",
   "data": "2026-10-30",
-  "opis": "KRUS w Więcej: składki, dane przelewów, terminy"
+  "opis": "Nowy wygląd Więcej: termin, przypięte (4×2/3×2, przeciąganie), moduły, konto"
 }
