@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.5",
-  "kod": 5,
-  "plik": "agromanager-1.5.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.5.apk",
-  "rozmiar": 3789372,
-  "sha256": "ba419aa9a3d508b79f57c323214c64c1fd53e495275cddac1249c824216e39eb",
-  "data": "2026-10-20",
-  "opis": "Raport oleju napędowego w Więcej → Raporty\n\nKafle okresów akcyzowych, typy raportu (zestawienie do wniosku, faktury,\nmiesięczny, roczny, poza wnioskiem), wybór okresu i filtra wniosku, KPI,\nszczegóły faktury, wydruk strony w przeglądarce."
+  "wersja": "1.6",
+  "kod": 6,
+  "plik": "agromanager-1.6.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.6.apk",
+  "rozmiar": 3798012,
+  "sha256": "68bc23bcdb59d2b1bc494867124375043f38aae51c0b82fcf8b2496284699c93",
+  "data": "2026-10-30",
+  "opis": "KRUS w Więcej: składki, dane przelewów, terminy"
 }
