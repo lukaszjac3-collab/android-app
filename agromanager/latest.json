@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.8",
-  "kod": 8,
-  "plik": "agromanager-1.8.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.8.apk",
-  "rozmiar": 3818669,
-  "sha256": "5f6c5de4ceb92301668adca668b8f564d82d7248f6eefb8e9760d69629dac235",
+  "wersja": "1.9",
+  "kod": 9,
+  "plik": "agromanager-1.9.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.9.apk",
+  "rozmiar": 3843037,
+  "sha256": "e7fc1042c8f26ccc56ae5bdce6c3be3f862db94ffef4f20c8c0a5407624b7a14",
   "data": "2026-10-30",
-  "opis": "Przypięte: krzyżyk odpinania w polu skrótu przy 4×2, większy obszar dotyku"
+  "opis": "Zwierzęta: lista, szczegóły, zmiana statusu, dodawanie i edycja"
 }
