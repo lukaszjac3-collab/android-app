@@ -1,11 +1,11 @@
 {
   "aplikacja": "agromanager",
-  "wersja": "1.12",
-  "kod": 12,
-  "plik": "agromanager-1.12.apk",
-  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.12.apk",
-  "rozmiar": 3893709,
-  "sha256": "4b5d7a0c9c4f3db754b0e1fdad79a383938df0fed9a58ef4076a1421908b901c",
+  "wersja": "1.13",
+  "kod": 13,
+  "plik": "agromanager-1.13.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/agromanager/agromanager-1.13.apk",
+  "rozmiar": 3893729,
+  "sha256": "67090c0c859624b5bbe690c4f340aa5e25261454ada9518b6752fbfa5c2a4db4",
   "data": "2026-11-17",
-  "opis": "Ewidencja zabiegów ŚOR: lista, szczegóły, kreator w 4 krokach\n\n- Zabiegi ŚOR (zabiegi_sor.php): lista roku upraw z kaflami, filtrem rośliny i grupami wg miesięcy\n- Szczegóły zabiegu: środki z dawką i zużyciem, uprawy; menu ⋮ Powtórz / Edytuj / Usuń\n- Kreator: uprawy → środki (dawki i ostrzeżenia z etykiet) → termin, BBCH, przyczyna, wykonawca → podsumowanie\n- Więcej: moduł i skrót „Zabiegi ŚOR”"
+  "opis": "Zabiegi ŚOR: wyśrodkowana data w kafelku, kreator nie przewija na górę przy zmianach w kroku"
 }
