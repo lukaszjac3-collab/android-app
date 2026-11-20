@@ -1,0 +1,11 @@
+{
+  "aplikacja": "tv-powiadomienia",
+  "wersja": "1.1",
+  "kod": 1,
+  "plik": "tv-powiadomienia-1.1.apk",
+  "url": "https://raw.githubusercontent.com/lukaszjac3-collab/android-app/main/tv-powiadomienia/tv-powiadomienia-1.1.apk",
+  "rozmiar": 2605574,
+  "sha256": "865adb73f336271fc69b6630df9aa557cbd6e3e0a129a7ad7dcc3a1f9563b1b5",
+  "data": "2026-11-20",
+  "opis": "TV Powiadomienia: pierwsza wersja\n\nPowiadomienia z Home Assistanta na ekranie Android TV / Google TV:\nrejestracja jako urządzenie mobile_app (usługa notify.mobile_app_<nazwa>),\nlokalny push przez WebSocket, karty nad innymi aplikacjami z obrazem,\nprzyciskami pod pilota, dźwiękiem i czasem wyświetlania, konfiguracja\nz telefonu przez kod QR."
+}
